@@ -1,6 +1,9 @@
 # alpacaGen
 My take on the alpaca generator project proposed by DevsProjects!
 
+Here's a link to access the project build : 
+https://steady-elf-072fb4.netlify.app
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
